@@ -5,6 +5,6 @@ const prepareFunction = () =>{
 };
 
 prepareFunction();
-
+// new RepoDelta
 var oTransaction = new Transaction(100);
 Transaction.prototype.add.apply(this,[10]);
